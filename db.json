@@ -5,63 +5,72 @@
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.241Z"
+      "created_at": "2018-07-27T18:53:16.241Z",
+      "isEaten": true
     },
     {
       "id": 2,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.244Z"
+      "created_at": "2018-07-27T18:53:16.244Z",
+      "isEaten": true
     },
     {
       "id": 3,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.248Z"
+      "created_at": "2018-07-27T18:53:16.248Z",
+      "isEaten": true
     },
     {
       "id": 4,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.251Z"
+      "created_at": "2018-07-27T18:53:16.251Z",
+      "isEaten": true
     },
     {
       "id": 5,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.255Z"
+      "created_at": "2018-07-27T18:53:16.255Z",
+      "isEaten": true
     },
     {
       "id": 6,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.258Z"
+      "created_at": "2018-07-27T18:53:16.258Z",
+      "isEaten": true
     },
     {
       "id": 7,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.260Z"
+      "created_at": "2018-07-27T18:53:16.260Z",
+      "isEaten": true
     },
     {
       "id": 8,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.264Z"
+      "created_at": "2018-07-27T18:53:16.264Z",
+      "isEaten": true
     },
     {
       "id": 9,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.275Z"
+      "created_at": "2018-07-27T18:53:16.275Z",
+      "isEaten": true
     },
     {
       "id": 10,
@@ -82,7 +91,8 @@
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.284Z"
+      "created_at": "2018-07-27T18:53:16.284Z",
+      "isEaten": true
     },
     {
       "id": 13,
